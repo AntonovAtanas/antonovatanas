@@ -4,20 +4,30 @@ I'm a Frontend Developer with a solid foundation in the MEAN (MongoDB, Express.j
 
 # Featured projects
 
-- **[Screenia](https://screenia.netlify.app/)**:
+- **Screenia Movie Website**:
+  - [Demo](https://screenia.netlify.app/)
   - Screenia is a dynamic and user-friendly movie catalog website
   - Developed using Angular, Node.js, Express.js, MongoDB
   - [Repository](https://github.com/AntonovAtanas/Screenia-Movie-Website)
 
-- **[Task Management Board](https://task-management-board-239c31e2eaa7.herokuapp.com/)**:
+- **Task Management Board**:
+  - [Demo](https://task-management-board-239c31e2eaa7.herokuapp.com/):
   - The app helps users to add and manage tasks
   - Developed using Angular, Standalone components, Signals, Angular Material UI, Angular Universal
   - [Repository](https://github.com/AntonovAtanas/Task-Management-Board)
 
- - **[DevMeet](https://dev-meet.vercel.app/)**:
-  - The platform helps discovering the latest IT events in Bulgaria. 
-  - Developed using React, Supabase, Google Maps API
-  - [Repository](https://github.com/AntonovAtanas/DevMeet)
+ - **DevMeet**:
+   -  [Demo](https://dev-meet.vercel.app/)
+   - The platform helps discovering the latest IT events in Bulgaria. 
+   -  Developed using React, Supabase, Google Maps API
+   -  [Repository](https://github.com/AntonovAtanas/DevMeet)
+
+ - **Star Wars Browser Game**:
+   - [Demo](https://star-wars-game-1efb4.web.app/)
+   - A side scrolling game where the player needs to shoot at enemy TIE fighters and the Death Star
+   - Developed using HTML, CSS, Vanilla JavaScript and Lit-Html
+   - [Repository](https://github.com/AntonovAtanas/Star-Wars-Browser-Game)
+
 
 # Skills
 
