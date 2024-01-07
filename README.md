@@ -9,6 +9,11 @@ I'm a Frontend Developer with a solid foundation in the MEAN (MongoDB, Express.j
   - Screenia is a dynamic and user-friendly movie catalog website
   - Developed using Angular, Node.js, Express.js, MongoDB
   - [Repository](https://github.com/AntonovAtanas/Screenia-Movie-Website)
+ 
+- **Race Fanatic Mobile App**:
+   - Collaborative mobile app project using Ionic with Angular
+   - Aim to be live in late January 2024
+   - [Link to project](https://github.com/Getsov/Motorsport-Events-App)
 
 - **Task Management Board**:
   - [Demo](https://task-management-board-239c31e2eaa7.herokuapp.com/):
