@@ -21,12 +21,6 @@ I'm a Frontend Developer with a solid foundation in the MEAN (MongoDB, Express.j
   - Developed using Angular, Standalone components, Signals, Angular Material UI, Angular Universal
   - [Repository](https://github.com/AntonovAtanas/Task-Management-Board)
 
- - **DevMeet**:
-   -  [Demo](https://dev-meet.vercel.app/)
-   - The platform helps discovering the latest IT events in Bulgaria. 
-   -  Developed using React, Supabase, Google Maps API
-   -  [Repository](https://github.com/AntonovAtanas/DevMeet)
-
  - **Star Wars Browser Game**:
    - [Demo](https://star-wars-game-1efb4.web.app/)
    - A side scrolling game where the player needs to shoot at enemy TIE fighters and the Death Star
