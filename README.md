@@ -12,7 +12,7 @@ I'm a Frontend Developer with a solid foundation in the MEAN (MongoDB, Express.j
  
 - **Race Fanatic Mobile App**:
    - Collaborative mobile app project using Ionic with Angular
-   - Aim to be live in late January 2024
+   - Aim to be live in March 2024
    - [Link to project](https://github.com/Getsov/Motorsport-Events-App)
 
 - **Task Management Board**:
