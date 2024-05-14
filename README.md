@@ -1,7 +1,6 @@
 # Hello there 👋
 
-I'm a Frontend Developer with a solid foundation in the MEAN (MongoDB, Express.js, Angular, Node.js) and MERN (MongoDB, Express.js, React.js, Node.js) stack.
-
+I'm a Frontend Developer at Hubject
 # Featured projects
 
 - **Screenia Movie Website**:
